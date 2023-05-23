@@ -4,7 +4,7 @@
 <h3 align="left">You can copy the proxy link or save it via the Discord webhook </h3>
 
 <h3 align="left">If you like this project, give it a star so that both my energy will increase and other people will use this project <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="git" width="30" height="30" /></h3>
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lofi.gif" alt="tailwind" />
+<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lofi.gif" alt="Cool-Readme" />
 
 
 
