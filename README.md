@@ -1,4 +1,4 @@
-<h3>Proje Proxy Tel <h3/> <a href="https://amirmohamadhejazi.github.io/proje_finall/">Link Live</a>
+<h3>Proje Proxy Tel <h3/> <a href="https://amirmohamadhejazi.github.io/Proxy-Tel-React/">Link Live</a>
 
 <h3 align="left">Open live link, and click get proxy button ... .. . Wait until you receive Tel proxies.. some proxies don't work, test</h3>
 <h3 align="left">You can copy the proxy link or save it via the Discord webhook </h3>
