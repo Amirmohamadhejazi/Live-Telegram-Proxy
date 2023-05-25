@@ -1,9 +1,15 @@
-<h3>Proje Proxy Tel <h3/> <a href="https://amirmohamadhejazi.github.io/Proxy-Tel-React/">Link Live</a>
+<h1 align="center">Live Telegram Proxy Project<h1/> 
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1461209/screenshots/14811632/media/40f9069043748582d43854a8c9158b91.gif">
+</p>
 
 
 
 
-
+## Live Link 🌟
+- This project is now live on the site
+- https://amirmohamadhejazi.github.io/Proxy-Tel-React
 
 
 
@@ -17,7 +23,7 @@
 
 - Support this project with your STARS so that both my energy will increase and other people will use this project 
 
- <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lofi.gif" alt="Cool-Readme" />
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
