@@ -9,7 +9,7 @@
 
 ## Live Link 🌟
 - This project is now live on the site
-- https://amirmohamadhejazi.github.io/Proxy-Tel-React
+- https://amirmohamadhejazi.github.io/Live-Telegram-Proxy
 
 
 
