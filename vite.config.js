@@ -5,6 +5,6 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
 
-  base:"/Proxy-Tel-React",
+  base:"/Live-Telegram-Proxy",
   
 })
