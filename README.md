@@ -1,38 +1,75 @@
-<h1 align="center">Live Telegram Proxy Project<h1/> 
+# Live Telegram Proxy
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1461209/screenshots/14811632/media/40f9069043748582d43854a8c9158b91.gif">
-</p>
+A web application that provides live Telegram proxies for users who need to access Telegram in restricted regions.
 
+## 🌐 Live Demo
 
+Visit the live demo at: [Live Telegram Proxy](https://amirmohamadhejazi.github.io/Live-Telegram-Proxy/)
 
+## ✨ Features
 
-## Live Link 🌟
-- This project is now live on the site
-- https://amirmohamadhejazi.github.io/Live-Telegram-Proxy
+- Get live Telegram proxies with a single click
+- Copy proxy links directly
+- Save proxies via Discord webhook integration
+- Simple and intuitive user interface
+- Real-time proxy generation
 
+## 🛠 Tech Stack
 
+- **Framework:** React
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **Build Tool:** Vite
+- **CSS:** SASS
+- **Version Control:** Git
 
-## How To Use
-- Open live link, and click get proxy button ... .. . Wait until you receive Tel proxies.. some proxies don't work, test
-- You can copy the proxy link or save it via the Discord webhook
+## 📦 How To Use
 
+1. Open the live link
+2. Click the "Get Proxy" button
+3. Wait for the Telegram proxies to be generated
+4. Copy the proxy link or save it via Discord webhook
+5. Test the proxy in your Telegram client
 
+> Note: Some proxies may not work, so testing is recommended
 
-## Support ⭐
+## 🚀 Project Structure
 
-- Support this project with your STARS so that both my energy will increase and other people will use this project 
+```
+Live-Telegram-Proxy/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   └── assets/
+├── .github/
+│   └── workflows/
+├── package.json
+└── README.md
+```
 
+## ⭐ Support
 
+If you find this project helpful, please consider:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</p>
+- Starring the repository
+- Sharing with others who might benefit
+- Contributing to improve the project
 
+## 📄 License
 
+This project is open-source under the [MIT License](LICENSE).
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+
+- Fork the repository
+- Create a new branch
+- Submit a pull request
+- Report issues
+- Suggest improvements
+
+## 📞 Contact
+
+For any questions or support, please open an issue in the repository. 
